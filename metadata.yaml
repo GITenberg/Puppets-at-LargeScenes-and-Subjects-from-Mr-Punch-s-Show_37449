@@ -1,0 +1,48 @@
+_repo: Puppets-at-LargeScenes-and-Subjects-from-Mr-Punch-s-Show_37449
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Partridge, Bernard
+    aliases:
+    - Partridge, John Bernard
+    - Partridge, J. Bernard
+    - Gould, Bernard
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '26310'
+    url: http://www.gutenberg.org/2009/agents/26310
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Partridge
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_issued: '2011-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PR'
+tableOfContents: Doing a cathedral -- The instantaneous process -- In the cause of
+  charity -- The classical scholar in reduced circumstances -- Rus in urbe -- Catching
+  the early boat -- Society's next craze -- An ideal interviewer -- Saturday night
+  in the Edgware Road -- The "Model Husband" contest -- The courier of the Hague --
+  Feeling their way -- A testimonial manqué -- The model democracy -- By parliamentary
+  -- The farming of the future -- A dialogue on art -- The old love and the new --
+  A doll's diary -- Elevating the masses -- Bookmakers on the beach -- 'Igher up!
+  -- At a highland cattle auction -- The country of Cockaigne.
+title: 'Puppets at Large: Scenes and Subjects from Mr Punch''s Show'
+url: http://www.gutenberg.org/ebooks/37449
